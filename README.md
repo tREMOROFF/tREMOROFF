@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tREMOROFF
+- 👋 Hi, I’m @Tremor
 - 👀 I’m interested in ... music
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...im alone wolf
