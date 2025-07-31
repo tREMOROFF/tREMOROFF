@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tremor
 - 👀 I’m interested in ... music
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python and html
 - 💞️ I’m looking to collaborate on ...im alone wolf
-- 📫 How to reach me ...Discord @tremoroffcs
+- 📫 How to reach me ..Telegram @Eyerootor
 
 <!---
 tREMOROFF/tREMOROFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
